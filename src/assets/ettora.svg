@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09090B"/>
+      <stop offset="0.55" stop-color="#121214"/>
+      <stop offset="1" stop-color="#1A1915"/>
+    </linearGradient>
+    <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(900 210) rotate(20) scale(260 210)">
+      <stop stop-color="#7A9E4B" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#7A9E4B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="900" rx="56" fill="url(#g1)"/>
+  <rect x="80" y="80" width="1040" height="740" rx="42" fill="#0E0F12" stroke="rgba(255,255,255,0.08)"/>
+  <circle cx="940" cy="220" r="180" fill="url(#g2)"/>
+  <rect x="140" y="140" width="320" height="88" rx="26" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="140" y="260" width="920" height="220" rx="34" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="140" y="512" width="280" height="234" rx="34" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="448" y="512" width="306" height="234" rx="34" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="782" y="512" width="278" height="234" rx="34" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <path d="M182 332H1024" stroke="rgba(255,255,255,0.16)" stroke-width="2"/>
+  <path d="M182 370H960" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <path d="M182 408H1024" stroke="rgba(255,255,255,0.1)" stroke-width="2"/>
+  <circle cx="236" cy="632" r="46" fill="#7A9E4B" fill-opacity="0.22"/>
+  <circle cx="578" cy="632" r="46" fill="#7A9E4B" fill-opacity="0.18"/>
+  <circle cx="922" cy="632" r="46" fill="#7A9E4B" fill-opacity="0.14"/>
+  <rect x="314" y="616" width="80" height="16" rx="8" fill="rgba(255,255,255,0.7)"/>
+  <rect x="660" y="616" width="74" height="16" rx="8" fill="rgba(255,255,255,0.7)"/>
+  <rect x="982" y="616" width="72" height="16" rx="8" fill="rgba(255,255,255,0.7)"/>
+  <text x="140" y="118" fill="white" font-family="Arial, sans-serif" font-size="34" font-weight="700">Ettora</text>
+  <text x="140" y="812" fill="rgba(255,255,255,0.5)" font-family="Arial, sans-serif" font-size="22">AI Food Recommendation App</text>
+</svg>
